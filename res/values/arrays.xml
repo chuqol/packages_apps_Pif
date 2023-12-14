@@ -17,7 +17,7 @@
         <item>GIONEE</item> <!-- MANUFACTURER -->
         <item>GIONEE</item> <!-- BRAND -->
         <item>GIONE S11S</item> <!-- MODEL -->
-        <item>GIONEE/S11S/GIONEE_SW17G12:7.1.1/N6F26Q/1509594663/release-keys</item> <!-- FINGERPRINT -->
+        <item>GIONEE/S11S/GIONEE_SW17G12:7.1.1/N6F26Q/1509594663:user/release-keys</item> <!-- FINGERPRINT -->
         <item>2017-11-05</item> <!-- SECURITY_PATCH -->
         <item>25</item> <!-- FIRST_API_LEVEL -->
         <item>N6F26Q</item> <!-- ID -->
