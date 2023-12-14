@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023 The Evolution X Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- Master device array -->
+    <string-array name="device_arrays" translatable="false">
+        <item>device_1</item>
+    </string-array>
+
+    <!-- Device 1 -->
+    <string-array name="device_1" translatable="false">
+        <item>S11S</item> <!-- PRODUCT -->
+        <item>GIONEE_SW17G12</item> <!-- DEVICE -->
+        <item>GIONEE</item> <!-- MANUFACTURER -->
+        <item>GIONEE</item> <!-- BRAND -->
+        <item>GIONE S11S</item> <!-- MODEL -->
+        <item>GIONEE/S11S/GIONEE_SW17G12:7.1.1/N6F26Q/1509594663/release-keys</item> <!-- FINGERPRINT -->
+        <item>2017-11-05</item> <!-- SECURITY_PATCH -->
+        <item>25</item> <!-- FIRST_API_LEVEL -->
+        <item>N6F26Q</item> <!-- ID -->
+        <item>user</item> <!-- TYPE -->
+        <item>release-keys</item> <!-- TAGS -->
+    </string-array>
+
+</resources>
