@@ -17,7 +17,7 @@
         <item>SHARP</item> <!-- MANUFACTURER -->
         <item>KDDI</item> <!-- BRAND -->
         <item>SHV39</item> <!-- MODEL -->
-        <item>KDDI/HUR_jp_kdi/HUR:8.0.0/S2072/02.00.06:user/release/keys</item> <!-- FINGERPRINT -->
+        <item>KDDI/HUR_jp_kdi/HUR:8.0.0/S2072/02.00.06:user/release-keys</item> <!-- FINGERPRINT -->
         <item>2018-06-05</item> <!-- SECURITY_PATCH -->
         <item>25</item> <!-- FIRST_API_LEVEL -->
         <item>S2072</item> <!-- ID -->
