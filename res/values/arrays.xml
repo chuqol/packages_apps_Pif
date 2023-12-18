@@ -12,15 +12,15 @@
 
     <!-- Device 1 -->
     <string-array name="device_1" translatable="false">
-        <item>S11S</item> <!-- PRODUCT -->
-        <item>GIONEE_SW17G12</item> <!-- DEVICE -->
-        <item>GIONEE</item> <!-- MANUFACTURER -->
-        <item>GIONEE</item> <!-- BRAND -->
-        <item>GIONE S11S</item> <!-- MODEL -->
-        <item>GIONEE/S11S/GIONEE_SW17G12:7.1.1/N6F26Q/1509594663:user/release-keys</item> <!-- FINGERPRINT -->
-        <item>2017-11-05</item> <!-- SECURITY_PATCH -->
+        <item>HUR_jp_kdi</item> <!-- PRODUCT -->
+        <item>HUR</item> <!-- DEVICE -->
+        <item>SHARP</item> <!-- MANUFACTURER -->
+        <item>KDDI</item> <!-- BRAND -->
+        <item>SHV39</item> <!-- MODEL -->
+        <item>KDDI/HUR_jp_kdi/HUR:8.0.0/S2072/02.00.06:user/release/keys</item> <!-- FINGERPRINT -->
+        <item>2018-06-05</item> <!-- SECURITY_PATCH -->
         <item>25</item> <!-- FIRST_API_LEVEL -->
-        <item>N6F26Q</item> <!-- ID -->
+        <item>S2072</item> <!-- ID -->
         <item>user</item> <!-- TYPE -->
         <item>release-keys</item> <!-- TAGS -->
     </string-array>
