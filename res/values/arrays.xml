@@ -12,15 +12,15 @@
 
     <!-- Device 1 -->
     <string-array name="device_1" translatable="false">
-        <item>HUR_jp_kdi</item> <!-- PRODUCT -->
-        <item>HUR</item> <!-- DEVICE -->
-        <item>SHARP</item> <!-- MANUFACTURER -->
-        <item>KDDI</item> <!-- BRAND -->
-        <item>SHV39</item> <!-- MODEL -->
-        <item>KDDI/HUR_jp_kdi/HUR:8.0.0/S2072/02.00.06:user/release-keys</item> <!-- FINGERPRINT -->
-        <item>2018-06-05</item> <!-- SECURITY_PATCH -->
-        <item>25</item> <!-- FIRST_API_LEVEL -->
-        <item>S2072</item> <!-- ID -->
+        <item>YUREKA</item> <!-- PRODUCT -->
+        <item>YUREKA</item> <!-- DEVICE -->
+        <item>YU</item> <!-- MANUFACTURER -->
+        <item>YU nitrogen</item> <!-- BRAND -->
+        <item>YU5510</item> <!-- MODEL -->
+        <item>YU/YUREKA:5.1.1/LMY49J/YOG4PAS8A4:user/release-keys</item> <!-- FINGERPRINT -->
+        <item></item> <!-- SECURITY_PATCH -->
+        <item></item> <!-- FIRST_API_LEVEL -->
+        <item></item> <!-- ID -->
         <item>user</item> <!-- TYPE -->
         <item>release-keys</item> <!-- TAGS -->
     </string-array>
